@@ -1,3 +1,0 @@
-# PythonCity
-print("Hello, World!")
-
